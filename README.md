@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MayurPatil007/MayurPatil007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <!---
 MayurPatil007/MayurPatil007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
